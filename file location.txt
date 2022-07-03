@@ -1,0 +1,2 @@
+\i 'C:/Users/agkbl/OneDrive/PESU/CSE/CS252_DBMS/Lab/Mini Project/tables.sql'
+\i 'E:/OneDrive/PESU/CSE/CS252_DBMS/Lab/Mini Project/tables.sql'
